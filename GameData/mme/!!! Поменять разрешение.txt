@@ -1,0 +1,7 @@
+Чтобы поменять разрешение, откройте файл 
+ETJK Rujka Edition\GameData\mme\autoexec.cfg
+
+И замените в строчках
+set r_customwidth 1280
+set r_customheight 720
+Значения на то разрешение которое вас интересует.

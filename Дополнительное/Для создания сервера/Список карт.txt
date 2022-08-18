@@ -1,0 +1,79 @@
+Free For All
+mp/ffa1 - Vjun Sentinal
+mp/ffa2 - Korriban Tombs
+mp/ffa3 - Tatooine City
+mp/ffa4 - Rift Sanctuary
+mp/ffa5 - Taspir
+
+Duel
+ mp/duel1 - Bespin Courtyard 
+ mp/duel2 - Generator Room 
+mp/duel3 - Imperial Shaft
+mp/duel4 - Imperial Control Room
+mp/duel5 - Taspir Landing
+mp/duel6 - Yavin Training Area
+mp/duel7 - Rancor Pit
+mp/duel8 - Abandoned City
+mp/duel9 - Hoth Canyon 
+mp/duel10 - Vjun Fuel Processing 
+
+CTF
+mp/ctf1 - Imperial Drop Zone
+mp/ctf2 - Hoth Wasteland
+mp/ctf3 - Yavin Hilltops
+mp/ctf4 - Coruscant Streets
+mp/ctf5 - Factory
+
+SIEGE
+mp/siege_hoth - Hoth Attack
+mp/siege_desert - Desert Rescue
+mp/siege_korriban - Korriban Valley
+
+Дополнительные карты:
+academy1 - Храм Джедаев
+academy2 - Храм Джедаев
+academy3 - Храм Джедаев
+academy4 - Храм Джедаев
+academy5 - Храм Джедаев
+academy6 - Ангар
+t1_inter - кусок карты, малый зал академии, в котором Рош разговаривает с другим джедаем
+yavin1 - кусок стартовой карты
+
+Одиночная игра
+Обучение:
+yavin1b - Путь к храму Массасси с Рошем Пениным 
+yavin2 - Курс тренировок с Кайлом Катарном 
+
+1 блок миссий:
+t1_sour - "Активность наемников" 
+t1_surprise - "Нахождение дроида"
+t1_fatal - "Срочная помощь"
+t1_danger - "Спасение торговца" 
+t1_rail - "Расследование культа"
+
+Сюжетные миссии: 
+hoth2 - "Исследование планеты Хот» 
+hoth3 - "Что делают Имперцы на базе Эхо?" 
+
+2 блок миссий:
+t2_rancor - Спасательная миссия — Нар Крита
+t2_trip - Встреча со связным — Зонджу V
+t2_wedge - Секретная операция — Крил'Дор
+t2_rogue - Захват криминального боса — Корусант
+t2_dpred - Расследование культа — Досуун
+Сюжетные миссии:
+vjun1 - Путь к замку Баст
+vjun2 - Путь в верхнюю часть замка
+vjun3 - Действия Секты и драка с Рошем Пениным 
+
+3 блок миссий:
+t3_rift - Наблюдение за культом — Чандрила 
+t3_stamp - Расследование культа — Танааб 
+t3_hevil - Обезвреживание устройства — Йалара 
+t3_byss - Расследование похищения силы — Бисс 
+t3_bounty - Уничтожение оружия — Орд Мантелл 
+Сюжетные миссии:
+taspir1 - Нахождение Роша Пенина 
+taspir2 - Нахождение Кайла с Рошем и выбор стороны Силы 
+kor1 - Путь через катакомбы Сит в Долину 
+kor2 - Вход в гробницу Рагноса, финальная карта
