@@ -1,4 +1,4 @@
-# RUJKA Client 2
+# RUJKA Client
 
 Сборка сделана на основе проектов:
   * EternalJK - https://github.com/eternalcodes/EternalJK (для Multiplayer)
