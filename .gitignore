@@ -1,1 +1,5 @@
-asset*.pk3
+assets*.pk3
+GameData/jakey
+GameData/servercache.dat
+GameData/eternaljk/eternaljk.cfg
+*.log
