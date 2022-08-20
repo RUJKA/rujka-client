@@ -20,10 +20,10 @@ features and some new ones.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
   Author: ent
-  Contributors: ent, Scooper, redsaurus, teh, loda, Alpha/Avygeil
-  Version: 1.10
-  Date: 10.08.2016
-  Filesize: 7.42 MB
+  Contributors: ent, Scooper, redsaurus, teh, loda, Alpha/Avygeil, tayst
+  Version: 1.11
+  Date: 12.06.2022
+  Filesize: 9.86 MB
 
   Installation: extract the archive to "GameData" folder.
 
@@ -39,7 +39,8 @@ features and some new ones.
     - OpenJK contributors and their OpenJK project
     - redsaurus for Mac support
     - Beloko Games and some of their codes for Android support
+    - tayst and his CI+CD
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-  Copyrights: ©2013-2016 ent
+  Copyrights: Â©2013-2022 ent
