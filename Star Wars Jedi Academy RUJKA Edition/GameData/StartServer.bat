@@ -1,1 +1,0 @@
-openjkded.x86.exe +set dedicated 1 +set net_port 29070 +exec server.cfg 
